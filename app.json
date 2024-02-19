@@ -13,10 +13,10 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/Itz-JEOL/File-To-Link/",
+  "repository": "https://github.com/v15hnuf6n1off/",
   "success_url": "/",
-  "logo": "https://graph.org/file/3421895411af26c3da183.jpg",
-  "website": "http://jeol.tech",
+  "logo": "https://graph.org/file/6944fd866c4fea882a83a.jpg",
+  "website": "",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
@@ -94,7 +94,7 @@
   "formation": {
       "web": {
           "quantity": 1,
-          "size": "eco"
+          "size": "Basic"
       }
   }
 }
